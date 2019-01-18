@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547840065 source:d:\ccrossword\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+
+1547499758 d:\ccrossword\jsmn.h
+	<stddef.h>
+
