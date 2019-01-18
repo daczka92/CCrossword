@@ -124,6 +124,6 @@ int main()
             printf("%d: %s\n", a+1, crossword[a]);
         }
     }
-
+    system("pause");
     return 0;
 }
